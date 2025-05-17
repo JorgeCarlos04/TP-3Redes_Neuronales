@@ -1,12 +1,12 @@
-Cuba , pais donde parte de su economia esta basada en el trabajo agricola del campesinado y el pueblo , donde en los ultimos años se a promovido el programa "Cultiva tu pedacito" donde se compromete el pueblo a la siembra para apoyar al Estado . Es indudable la necesidad de un estudio de los suelos , la posible presencia de plagas , posibles condiciones climaticas favorables a la siembra y la seguridad propia de los recintos utilizados por muchos vecinos , los cuales carecen muchs veces de conocimiento sobre esto . Por tanto teniendio en cuenta estas problematicas se puede utilizar la inteligencia atificial?....
+Cuba , pais donde parte de su economia esta basada en el trabajo agricola del campesinado y el pueblo , donde en los ultimos años se a promovido el programa "Cultiva tu pedacito" donde se compromete el pueblo a la siembra para apoyar al Estado . Es indudable la necesidad de un estudio de los suelos , la posible presencia de plagas , posibles condiciones climaticas favorables a la siembra y la seguridad propia de los recintos utilizados por muchos vecinos , los cuales carecen muchas veces de conocimiento sobre esto . Por tanto teniendo en cuenta estas problematicas se puede utilizar la inteligencia atificial?....
 
 Pues si , muchas redes neuronales en especifico las redes neuronales convolucionales , han servido y pueden servir en minimizar estos problemas , dejando de lado la agricultura tradicional y aportando mas a la agricultura de precision . Ahora a continuacion profundizaremos en este tema 
 
 Problematicas :
--El estudio del suelo es uno de los mas importante aspectos e la agricultura y es un poco tedioso el estudio manual , para comporbar su fertilidad a traves del tiempo , y si este contiene algun componente no satisfactorio .
+-El estudio del suelo es uno de los mas importante aspectos en la agricultura y es un poco tedioso el estudio manual , para comporbar su fertilidad a traves del tiempo , y si este contiene algun componente no satisfactorio .
 -La presencia de plagas es muy comun hoy en dia e los campos cubanos y su erradicacion lleva mucho trabajo fisico y largas horas de combate contra la misma 
--Imagina que lo que deseas sembrar paa apoyar no sea lo mejor para lascodicones climatologicas presentes en los siguientes meses , aqui es donde entran las (RNC) para el estudio y prediccion de lo mejor 
+-Imagina que lo que deseas sembrar paa apoyar no sea lo mejor para las codicones climatologicas presentes en los siguientes meses , aqui es donde entran las Redes Neuronales Convolucionales (RNC) para el estudio y prediccion de lo mejor opcion 
 
-Uso de las Redes Nuronales Convolucionales y profundas 
+Uso de las Redes Nuronales Convolucionales y Profundas 
 -Como las redes neuronales convolucionales y profundas son optimas para este tipo de trabajos , ya que estas al procesar gran cantidad de datos e imagenes satelitares , sensores , que pueden ser instalados en los campos para asi garantizar una efectividad al menos de un 50% de productividad , estas redes procesan segun pesos , campos, variables continuas(campo , suelo , humedad, etc...) y todo ese conjunto de datos a traves del tiempo muestran una base solida para la erradicacion de los errores mas comunes 
 
