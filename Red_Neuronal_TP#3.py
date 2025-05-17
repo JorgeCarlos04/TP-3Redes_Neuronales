@@ -34,7 +34,7 @@ precision=sk.metrics.accuracy_score(y_Prueb,y_Pred)
 print(f"La precicion mostradapor el modelo es de : {precision:.3f}")
 
 #Graficar el modelo(Metodo:plot_decision_regions)
-plt.figure(figsize(9,9))
+plt.figure(figsize=(9,9))
 plot_decision_regions(x_Prueb , y_Prueb , clf=modelo, legend=2)
 plt.title("Localizacion del punto segun el cuadrante ")
 plt.xlabel("X")
