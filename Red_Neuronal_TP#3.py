@@ -1,5 +1,5 @@
 import sklearn.neural_network
-import matplolib.pyplot as plt
+import matplotlib.pyplot as plt
 import sklearn as sk
 import numpy as np
 from mlxtend.plotting import plot_decision_regions
